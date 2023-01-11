@@ -1,20 +1,4 @@
 {
-    "SERVER-ID-1": {
-    "email":"fuadislam912@gmail.com",
-    "pwd":"RJamirul123"
-  },
-    "SERVER-ID-2": {
-    "email":"rjamirul00@gmail.com",
-    "pwd":"RJamirul123"
-  },
-    "SERVER-ID-3": {
-    "email":"amirulkhan09990@gmail.com",
-    "pwd":"RJamirul123"
-  },
-    "SERVER-ID-": {
-    "email":"",
-    "pwd":""
-  },
     "SERVER-ID-5": {
     "email":"mdsamiulalam022@gmail.com",
     "pwd":"@@Tiq922@"
@@ -44,75 +28,7 @@
     "pwd":"MDfahim123@#$"
   },
     "SERVER-ID-": {
-    "email":"",
-    "pwd":""
-  },
-    "SERVER-ID-": {
-    "email":"",
-    "pwd":""
-  },
-    "SERVER-ID-": {
-    "email":"",
-    "pwd":""
-  },
-    "SERVER-ID-": {
-    "email":"",
-    "pwd":""
-  },
-    "SERVER-ID-": {
     "email":"Email Here",
     "pwd":"Password"
-  },
-    "SERVER-ID-": {
-    "email":"",
-    "pwd":""
-  },
-    "SERVER-ID-": {
-    "email":"",
-    "pwd":""
-  },
-    "SERVER-ID-": {
-    "email":"Email Here",
-    "pwd":"Password"
-  },
-    "SERVER-ID-": {
-    "email":"",
-    "pwd":""
-  },
-    "SERVER-ID-": {
-    "email":"",
-    "pwd":""
-  },
-    "SERVER-ID-": {
-    "email":"Email Here",
-    "pwd":"Password"
-  },
-    "SERVER-ID-": {
-    "email":"Email Here",
-    "pwd":"Password"
-  },
-    "SERVER-ID-": {
-    "email":"Email Here",
-    "pwd":"Password"
-  },
-    "SERVER-ID-": {
-    "email":"Email Here",
-    "pwd":"Password"
-  },
-    "SERVER-ID-": {
-    "email":"Email Here",
-    "pwd":"Password"
-  },
-    "SERVER-ID-20": {
-    "email":"freefire052605@gmail.com",
-    "pwd":"Mosfakur62"
-  },
-    "Emran": {
-    "email":"emranftt@gmail.com",
-    "pwd":"RJamirul123"
-  },
-    "Rubel": {
-    "email":"raiyanahsan34@gmail.com",
-    "pwd":"Remo@553797"
   }
 }
